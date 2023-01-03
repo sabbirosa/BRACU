@@ -13,7 +13,7 @@ Write the Python code of a program that reads two numbers from the user, and pri
 |   4 <br> 5   | Sum = 9 <br> Product = 20 <br> Difference = -1  |
 |  30 <br> 2   | Sum = 32 <br> Product = 60 <br> Difference = 28 |
 
-Ans: ⚡ [Task 1](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_01/Task1.py)
+Solution: ⚡ [Task 1](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_01/Task1.py)
 
 ---
 
@@ -33,7 +33,7 @@ For details, we can read from https://docs.python.org/3/library/math.html
 |      4       | Area is 50.26548245743669 <br> Circumference is 25.132741228718345 |
 |     3.5      | Area is 38.48451000647496 <br> Circumference is 21.991148575128552 |
 
-Ans: ⚡ [Task 2](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_02/Task2.py)
+Solution: ⚡ [Task 2](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_02/Task2.py)
 
 ---
 
@@ -49,7 +49,7 @@ Write the Python code of a program that reads two numbers from the user. The pro
 |  -33 <br> 3  | Second is greater     |
 |  11 <br> 11  | The numbers are equal |
 
-Ans: ⚡ [Task 3](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_03/Task3.py)
+Solution: ⚡ [Task 3](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_03/Task3.py)
 
 ---
 
@@ -69,7 +69,7 @@ Write the Python code of a program that reads two numbers, subtracts the smaller
 
 `Explanation:` -4 > -40 so -4 - (-40) = -4 + 40 = 36
 
-Ans: ⚡ [Task 4](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_04/Task4.py)
+Solution: ⚡ [Task 4](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_04/Task4.py)
 
 ---
 
@@ -89,7 +89,7 @@ Write the Python code of a program that reads a number, and prints `The number i
 |      10      | The number is even |
 |     -44      | The number is even |
 
-Ans: ⚡ [Task 5](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_05/Task5.py)
+Solution: ⚡ [Task 5](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_05/Task5.py)
 
 ---
 
@@ -111,7 +111,7 @@ For example, 2, 4, 5, 6, 8, 10, 12, 14, 15, 16, 18, 20, 22 … i.e. This include
 |      10      |            10            |
 |     -44      | Not a multiple of 2 OR 5 |
 
-Ans: ⚡ [Task 6](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_06/Task6.py)
+Solution: ⚡ [Task 6](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_06/Task6.py)
 
 ---
 
@@ -134,7 +134,7 @@ For example, 2, 4, 5, 6, 8, 12, 14, 15, 16, 18, 22 … i.e. this includes multip
 |      10      | Multiple of 2 and 5 both |
 |      17      |  Not a multiple we want  |
 
-Ans: ⚡ [Task 7](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_07/Task7.py)
+Solution: ⚡ [Task 7](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_07/Task7.py)
 
 ---
 
@@ -156,7 +156,7 @@ For example, 10, 20, 30, 40, 50 … i.e. this only includes numbers which are mu
 |      15      | Not multiple of 2 and 5 both |
 |      6       | Not multiple of 2 and 5 both |
 
-Ans: ⚡ [Task 8](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_08/Task8.py)
+Solution: ⚡ [Task 8](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_08/Task8.py)
 
 ---
 
@@ -179,7 +179,7 @@ Write the Python code of a program that finds the number of `hours`, `minutes`, 
 Then again, 2800 // 60 = 46 minutes and 2800 % 60 = 40 seconds.
 And hence we have arrived at our answer.
 
-Ans: ⚡ [Task 9](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_09/Task9.py)
+Solution: ⚡ [Task 9](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_09/Task9.py)
 
 ---
 
@@ -206,7 +206,7 @@ For example, a person cannot work for -5 hours or more than 168 hours in a week.
 
 `Explanation:` Since, the number of hours worked is 30 < 40, therefore salary = 30 \* 200 = 6000.
 
-Ans: ⚡ [Task 10](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_10/Task10.py)
+Solution: ⚡ [Task 10](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_10/Task10.py)
 
 ---
 
@@ -233,7 +233,7 @@ Write the Python code of a program that reads a value of S and then calculates t
 
 `Explanation:` Since S (user input) in first test case given here is 120 >= 100, so L = 12000 / (4 + (120 \* 120)/14900) = 2416.2162162162163. Similarly in second test case S (user input) given here is 3 < 100, so L = 3000 - 125 \* 3 \* 3 = 1875.
 
-Ans: ⚡ [Task 11](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_11/Task11.py)
+Solution: ⚡ [Task 11](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_11/Task11.py)
 
 ---
 
@@ -278,7 +278,7 @@ If the user enters 27, your program should print the message "Wrong time".
 |         18         | Patience is a virtue |
 |         -5         |      Wrong time      |
 
-Ans: ⚡ [Task 12](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_12/Task12.py)
+Solution: ⚡ [Task 12](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_12/Task12.py)
 
 ---
 
@@ -308,7 +308,7 @@ For example, a student cannot receive -5 or 110 marks. So, the valid marks range
 |      48      |       F       |
 |     102      |  Wrong mark   |
 
-Ans: ⚡ [Task 13](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_13/Task13.py)
+Solution: ⚡ [Task 13](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_13/Task13.py)
 
 ---
 
@@ -334,7 +334,7 @@ Use the following formula to convert the temperature: `(degrees Celsius) = ((deg
 
 `Explanation:` The temperature in Celsius is (82 - 32) \* 0.56 = 28 degrees, which is printed. This is between 25 and 30 degrees, so “Spring” is printed after that.
 
-Ans: ⚡ [Task 14](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_14/Task14.py)
+Solution: ⚡ [Task 14](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_14/Task14.py)
 
 ---
 
@@ -358,7 +358,7 @@ Now, write a python program that takes 2 inputs (distance in meters and time in 
 
 `Explanation:` In the first test casen after the conversion of distance and time, the velocity is (160/2) km/h = 80 km/h. So the velocity is okay. And in the second test case After the conversion of distance and time, the velocity is (25.4/1) km/h = 25.4 km/h. So the speed is too slow.
 
-Ans: ⚡ [Task 15](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_15/Task15.py)
+Solution: ⚡ [Task 15](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_15/Task15.py)
 
 ---
 
@@ -382,7 +382,7 @@ To be eligible for a waiver, a student must have completed at least 30 credits a
 | 3.93 <br> 78 | The student is eligible for a waiver of 50 percent. |
 | 3.79 <br> 24 |      The students is not eligible for a waiver      |
 
-Ans: ⚡ [Task 16](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_16/Task16.py)
+Solution: ⚡ [Task 16](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_16/Task16.py)
 
 ---
 
@@ -405,7 +405,7 @@ For example, 1, 3, 7, 9, 11, 13, 17, 19, 21, 23, 27, 29, 31, 33, 37, 39 …
 |      5       |      No       |
 |      12      |      No       |
 
-Ans: ⚡ [Task 17](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_17/Task17.py)
+Solution: ⚡ [Task 17](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_17/Task17.py)
 
 ---
 
@@ -428,7 +428,7 @@ For example, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 
 |      20      |      No       |
 |      14      |      14       |
 
-Ans: ⚡ [Task 18](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_18/Task18.py)
+Solution: ⚡ [Task 18](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_18/Task18.py)
 
 ---
 
@@ -455,4 +455,4 @@ Write a python program and take two inputs from the user. The first input will b
 
 `Explanation:` 5 \* 120 + 8 \* 75 = 1200 Tk was her bill without discount. For 1200 Tk, the discount amount is 150 Tk. So, her new bill with a discount is (1200 - 150) = 1050 Tk.
 
-Ans: ⚡ [Task 19](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_19/Task19.py)
+Solution: ⚡ [Task 19](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_01/Task_19/Task19.py)
