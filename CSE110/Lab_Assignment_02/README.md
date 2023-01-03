@@ -63,7 +63,7 @@ Output:
 
 `Explaination:` In Task-1(a), the loop counter may be initialized at 24 and then the loop should terminate when the loop counter reaches -6. The difference between the first two values is 24 - 18 = 6. So the loop counter value is getting decremented by 6 in every iteration for the given sequence here.
 
-Ans: ⚡ [Task 1](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_01/Task1.py)
+Solution: ⚡ [Task 1](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_01/Task1.py)
 
 ---
 
@@ -110,7 +110,7 @@ Sample Output:
   Veyron
 ```
 
-Ans: ⚡ [Task 2](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_02/Task2.py)
+Solution: ⚡ [Task 2](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_02/Task2.py)
 
 ---
 
@@ -126,7 +126,7 @@ Output:
 
 Explaination: 63 + 126 + 189 + 252 + 315 + 378 + 441 + 504 + 567 = 2835
 
-Ans: ⚡ [Task 3](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_03/Task3.py)
+Solution: ⚡ [Task 3](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_03/Task3.py)
 
 ---
 
@@ -142,7 +142,7 @@ Output:
 42649
 ```
 
-Ans: ⚡ [Task 4](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_04/Task4.py)
+Solution: ⚡ [Task 4](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_04/Task4.py)
 
 ---
 
@@ -156,7 +156,7 @@ Output:
 39814
 ```
 
-Ans: ⚡ [Task 5](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_05/Task5.py)
+Solution: ⚡ [Task 5](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_05/Task5.py)
 
 ---
 
@@ -170,7 +170,7 @@ Output:
 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49
 ```
 
-Ans: ⚡ [Task 6](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_06/Task6.py)
+Solution: ⚡ [Task 6](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_06/Task6.py)
 
 ---
 
@@ -190,7 +190,7 @@ $𝑦 = 1^2 − 2^2 + 3^2 − 4^2 + 5^2.........+ 𝑛^2$
 
 `Explanation:` y = 1 - 4 + 9 - 16 + 25 = 15
 
-Ans: ⚡ [Task 7](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_07/Task7.py)
+Solution: ⚡ [Task 7](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_07/Task7.py)
 
 ---
 
@@ -248,7 +248,7 @@ The total of the odd numbers is 89 and their average is 17.8
 
 `Explanation:` The total is 90 = 13 + (-5) + (-17) + 99) and their average is 90/4 = 22.5
 
-Ans: ⚡ [Task 8](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_08/Task8.py)
+Solution: ⚡ [Task 8](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_08/Task8.py)
 
 ---
 
@@ -268,7 +268,7 @@ Write a Python code for the following:
 
 `Explanation:` The summation of multiples of 7 up to 50 is 7 + 14 + 21 + 28 + 35 + 42 + 49 = 196
 
-Ans: ⚡ [Task 9](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_09/Task9.py)
+Solution: ⚡ [Task 9](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_09/Task9.py)
 
 ---
 
@@ -323,7 +323,7 @@ Sample Output:
 `Explanation:`
 When the user enters 11 at first, we print 11, then The user enters -29, (11 + (-29)) = -18, so our output is -18, then The user enters -3, (-18 - 3) = -21, hence our output is -21, then The user enters 4, and we have (-21 + 47) = 26, we print 26, and finally The user enters 50, the final sum is (26 + 50) = 76 which is printed as the last output.
 
-Ans: ⚡ [Task 10](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_10/Task10.py)
+Solution: ⚡ [Task 10](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_10/Task10.py)
 
 ---
 
@@ -374,7 +374,7 @@ Done! When the number becomes 0 you can end your loop.
 |    32768     |  8, 6, 7, 2, 3   |
 |    132929    | 9, 2, 9, 2, 3, 1 |
 
-Ans: ⚡ [Task 11](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_11/Task11.py)
+Solution: ⚡ [Task 11](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_11/Task11.py)
 
 ---
 
@@ -406,7 +406,7 @@ Done! When the number becomes 0 your loop can end giving you the count of digits
 |      78      |       2       |
 |    132929    |       6       |
 
-Ans: ⚡ [Task 12](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_12/Task12.py)
+Solution: ⚡ [Task 12](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_12/Task12.py)
 
 ---
 
@@ -459,7 +459,7 @@ Done. Loop ends as number has become 0.
 |    32768     |  3, 2, 7, 6, 8   |
 |    132929    | 1, 3, 2, 9, 2, 9 |
 
-Ans: ⚡ [Task 13](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_13/Task13.py)
+Solution: ⚡ [Task 13](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_13/Task13.py)
 
 ---
 
@@ -474,7 +474,7 @@ Write a Python program that takes a number as input from the user and prints the
 |      6       | 1, 2, 3, 6 <br> Total 4 divisors. |
 |     121      | 1, 11, 121 <br> Total 3 divisors. |
 
-Ans: ⚡ [Task 14](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_14/Task14.py)
+Solution: ⚡ [Task 14](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_14/Task14.py)
 
 ---
 
@@ -494,7 +494,7 @@ Write a Python program that takes a number as input from the user and tells if i
 
 `Explanation:` In first test case 6 has 4 divisors: 1, 2, 3, and 6. If we add all factors except 6 itself, 1 + 2 + 3 = 6. The sum of the factors excluding the number itself sum up to the number therefore "6 is a perfect number" is printed. And in third test case 33 has 4 divisors: 1, 3, 11, and 33. If we add all factors except itself, 15 = 1 + 3 + 11. The sum is not equal to the number, therefore 33 is not a perfect number.
 
-Ans: ⚡ [Task 15](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_15/Task15.py)
+Solution: ⚡ [Task 15](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_15/Task15.py)
 
 ---
 
@@ -515,7 +515,7 @@ Write a Python program that asks the user for one number and tells if it is a pr
 
 `Explanation:` 6 has 4 divisors: 1, 2, 3 and 6. And 11 has only 2 divisors: 1 and 11.
 
-Ans: ⚡ [Task 16](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_16/Task16.py)
+Solution: ⚡ [Task 16](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_16/Task16.py)
 
 ---
 
@@ -553,7 +553,7 @@ Sample Output:
 
 `Explanation:` Average calculation: (10 + 4 + (-1) + (-100) + 1)/5 = -86/5 = -17.2
 
-Ans: ⚡ [Task 17](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_17/Task17.py)
+Solution: ⚡ [Task 17](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_17/Task17.py)
 
 ---
 
@@ -600,7 +600,7 @@ Sample Output:
 
 `Explanation:` If the input is 3, then there will be 3 rows and 3 columns, where in each horizontal row/line, '+' is printed 3 times, 1 in each of the 3 columns and we will have a total of 3 lines.
 
-Ans: ⚡ [Task 18](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_18/Task18.py)
+Solution: ⚡ [Task 18](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_18/Task18.py)
 
 ---
 
@@ -647,7 +647,7 @@ Sample Output:
 
 `Explanation:` The user input this time is 3 rows/lines and 2 columns. So, our output has 3 lines and in each line, the column number 1 and 2 are printed next to each other as the user only wants 2 columns here.
 
-Ans: ⚡ [Task 19](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_19/Task19.py)
+Solution: ⚡ [Task 19](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_19/Task19.py)
 
 ---
 
@@ -694,7 +694,7 @@ Sample Output:
 
 `Explanation:` Numbers are printed sequentially up to the line number for each of the lines.
 
-Ans: ⚡ [Task 20](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_20/Task20.py)
+Solution: ⚡ [Task 20](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_20/Task20.py)
 
 ---
 
@@ -748,7 +748,7 @@ Sample Output:
 
 `Explanation:` All fibonacci numbers up to the number 15 is printed separated by spaces.
 
-Ans: ⚡ [Task 21](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_21/Task21.py)
+Solution: ⚡ [Task 21](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_21/Task21.py)
 
 ---
 
@@ -776,7 +776,7 @@ Now, taking the remainders from bottom to top gives us the binary number which i
 |      11      |     1011      |
 |      13      |     1101      |
 
-Ans: ⚡ [Task 22](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_22/Task22.py)
+Solution: ⚡ [Task 22](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_22/Task22.py)
 
 ---
 
@@ -797,7 +797,7 @@ $2^3$ x $1 + 2^2$ x $0 + 2^1$ x $1 + 2^0$ x $0 = 10$
 |     1010     |      10       |
 |    11101     |      29       |
 
-Ans: ⚡ [Task 23](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_23/Task23.py)
+Solution: ⚡ [Task 23](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_23/Task23.py)
 
 ---
 
@@ -830,7 +830,7 @@ Sample Output:
 
 `Explanation:` The user have given a range of between 2 and 6, and there are 3 prime numbers (2, 3, 5) and 1 perfect number (6) in that range.
 
-Ans: ⚡ [Task 24](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_24/Task24.py)
+Solution: ⚡ [Task 24](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_24/Task24.py)
 
 ---
 
@@ -872,4 +872,4 @@ Sample Output:
 
 `Explanation:` The product of all the digits of each number from 351 to 356 are 3x5x1, 3x5x2, 3x5x3, 3x5x4, 3x5x5 and 3x5x6. The final products are 15, 30, 45, 60, 75 and 90 respectively. Out of these numbers only 45 and 90 are divisible by 9 and therefore they are printed.
 
-Ans: ⚡ [Task 25](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_25/Task25.py)
+Solution: ⚡ [Task 25](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_25/Task25.py)
