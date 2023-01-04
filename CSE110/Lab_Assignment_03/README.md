@@ -1,4 +1,4 @@
-# Lab Assignment 2 (Loops) 📝
+# Lab Assignment 3 (String) 📝
 
 ### Task 1
 
@@ -14,7 +14,7 @@ Write a Python program that takes a String as an input from the user and prints 
 |    Python    |    nohtyP     |
 |   1576527    |    7256751    |
 
-Solution: ⚡ [Task 1](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_01/Task1.py)
+Solution: ⚡ [Task 1](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_03/Task_01/Task1.py)
 
 ---
 
