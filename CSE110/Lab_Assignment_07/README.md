@@ -1,4 +1,4 @@
-# Lab Assignment 7 (Searching-Sorting) 📝
+# Lab Assignment 7 (Searching & Sorting) 📝
 
 ### Task 1
 
@@ -16,7 +16,7 @@ Output:
   [1, 2, 2, 3, 5, 6, 10, 11, 12, 14, 15, 17, 18, 20, 29]
 ```
 
-Solution: ⚡ [Task 1](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_01/Task1.py)
+Solution: ⚡ [Task 1](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_07/Task_01/Task1.py)
 
 ---
 
@@ -36,7 +36,7 @@ Output:
   [1, 2, 2, 3, 5, 6, 10, 11, 12, 14, 15, 17, 18, 20, 29]
 ```
 
-Solution: ⚡ [Task 2](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_02/Task2.py)
+Solution: ⚡ [Task 2](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_07/Task_02/Task2.py)
 
 ---
 
@@ -56,7 +56,7 @@ Output:
   [29, 20, 18, 17, 15, 14, 12, 11, 10, 6, 5, 3, 2, 2, 1]
 ```
 
-Solution: ⚡ [Task 3](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_03/Task3.py)
+Solution: ⚡ [Task 3](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_07/Task_03/Task3.py)
 
 ---
 
@@ -78,7 +78,7 @@ Output:
   [10, 100, 11, 80, 12, 70, 20, 56, 22, 30, 58, 16, 70, 15]
 ```
 
-Solution: ⚡ [Task 4](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_04/Task4.py)
+Solution: ⚡ [Task 4](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_07/Task_04/Task4.py)
 
 ---
 
@@ -130,7 +130,7 @@ Sample Output:
   Alan
 ```
 
-Solution: ⚡ [Task 5](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_05/Task5.py)
+Solution: ⚡ [Task 5](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_07/Task_05/Task5.py)
 
 ---
 
@@ -152,7 +152,7 @@ Output:
   4
 ```
 
-Solution: ⚡ [Task 6](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_06/Task6.py)
+Solution: ⚡ [Task 6](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_07/Task_06/Task6.py)
 
 ---
 
@@ -190,7 +190,7 @@ Sample Output:
   Median = 6.5
 ```
 
-Solution: ⚡ [Task 7](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_07/Task7.py)
+Solution: ⚡ [Task 7](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_07/Task_07/Task7.py)
 
 ---
 
@@ -224,7 +224,7 @@ Sample Output:
   Two pairs which have the smallest sum = 4 and -7
 ```
 
-Solution: ⚡ [Task 8](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_08/Task8.py)
+Solution: ⚡ [Task 8](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_07/Task_08/Task8.py)
 
 ---
 
@@ -268,4 +268,4 @@ Sample Output:
   Here the closest point is (1, 1) which has a distance of 1.4142135623730951 from the origin.
 ```
 
-Solution: ⚡ [Task 9](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_02/Task_09/Task9.py)
+Solution: ⚡ [Task 9](https://github.com/sabbirosa/BRACU/tree/main/CSE110/Lab_Assignment_07/Task_09/Task9.py)
