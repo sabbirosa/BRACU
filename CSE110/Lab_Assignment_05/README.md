@@ -10,7 +10,7 @@ Assume, you have been given a tuple.
 
 Write one line of Python code to access and print the value 400.
 
-`Output:`
+Output:
 
 ```
   400
